@@ -1,0 +1,53 @@
+{
+    "event_id": 007,
+    "attendee_id": 1234,
+    "event_start_time": 1449878400,
+    "event_end_time": 1450137600,
+    "address1": "5353 Fannin Street",
+    "address2": "",
+    "city": "Houston",
+    "lat": 29.726734161376953,
+    "lng": -95.386962890625,
+    "menu": [{
+        "type": "dynamic",
+        "name": "Event Details",
+        "module": "event_details"
+    }, {
+        "type": "fixed",
+        "name": "Contact Manager",
+        "module": "contact_manager"
+    }, {
+        "type": "fixed",
+        "name": "Event Gallery",
+        "module": "gallery"
+    }, {
+        "type": "fixed",
+        "name": "Ticket",
+        "module": "print_ticket"
+    }, {
+        "type": "dynamic",
+        "name": "Attendee Info",
+        "module": "attendee_info"
+    }, {
+        "type": "dynamic",
+        "name": "Event Agenda",
+        "module": "agenda"
+    }],
+    "event_details": {
+        "type": "dynamic",
+        "module": 1,
+        "menu_title": "Event Details",
+        "items": [{
+            "type": "text",
+            "content": "New year Event",
+            "class": "para"
+        }, {
+            "type": "image",
+            "style": "large"
+        }, {
+            "type": "webview",
+            "url": "http://www.someurl.com",
+            "style": "my_web_view"
+        }]
+    }
+}
