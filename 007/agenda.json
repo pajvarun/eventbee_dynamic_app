@@ -1,0 +1,18 @@
+{
+    "type": "dynamic",
+    "module": "agenda",
+    "menu_title": "Event Agenda",
+    "items": [{
+        "type": "text",
+        "content": "New year Event",
+        "style": "heading"
+    }, {
+        "type": "text",
+        "content": "Some random text",
+        "style": "para"
+    }, {
+        "type": "image",
+        "image_url": "http://www.someurl.com",
+        "style": "small_image"
+    }]
+}

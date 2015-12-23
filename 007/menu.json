@@ -36,7 +36,7 @@
     }],
     "event_details": {
         "type": "dynamic",
-        "module": 1,
+        "module": "event_details",
         "menu_title": "Event Details",
         "items": [{
             "type": "text",
@@ -45,7 +45,7 @@
         }, {
             "type": "image",
             "image_url" : "http://www.someurl.com",
-            "style": "large"
+            "style": "large_image"
         }, {
             "type": "webview",
             "url": "http://www.someurl.com",
