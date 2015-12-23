@@ -1,6 +1,7 @@
 {
     "event_id": 007,
     "attendee_id": 1234,
+    "event_title" : "New year event",
     "event_start_time": 1449878400,
     "event_end_time": 1450137600,
     "address1": "5353 Fannin Street",
@@ -40,14 +41,19 @@
         "items": [{
             "type": "text",
             "content": "New year Event",
-            "class": "para"
+            "style": "para"
         }, {
             "type": "image",
+            "image_url" : "http://www.someurl.com",
             "style": "large"
         }, {
             "type": "webview",
             "url": "http://www.someurl.com",
             "style": "my_web_view"
+        }, {
+            "type": "show_more",
+            "text" : "More Info",
+            "style": "my_button"
         }]
     }
 }
