@@ -1,0 +1,10 @@
+{
+    "type": "dynamic",
+    "name": "Attendee Info",
+    "module": "attendee_info",
+    "items": [{
+        "type": "webview",
+        "url": "http://www.someurl.com",
+        "style": "my_web_view"
+    }]
+}
