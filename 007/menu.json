@@ -1,6 +1,7 @@
 {
     "event_id": 007,
     "attendee_id": 1234,
+    "attendee_name" : "John",
     "event_title" : "New year event",
     "event_start_time": 1449878400,
     "event_end_time": 1450137600,
