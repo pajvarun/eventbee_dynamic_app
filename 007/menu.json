@@ -2,6 +2,8 @@
     "event_id": 007,
     "attendee_id": 1234,
     "attendee_name" : "John",
+    "attendee_email" : "john@eventbee.com",
+    "attendee_phone" : "9866260239",
     "event_title" : "New year event",
     "event_start_time": 1449878400,
     "event_end_time": 1450137600,
