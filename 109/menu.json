@@ -36,7 +36,7 @@
     "event_details": {
         "type": "dynamic",
         "module": "event_details",
-        "menu_title": "Event Details",
+        "menu_title": "Event Details 2",
         "items": [{
             "type": "text",
             "content": "New year Event",
