@@ -32,27 +32,5 @@
         "type": "dynamic",
         "name": "Attendee Info",
         "module": "attendee_info"
-    }],
-    "event_details": {
-        "type": "dynamic",
-        "module": "event_details",
-        "menu_title": "Event Details2",
-        "items": [{
-            "type": "text",
-            "content": "New year Event",
-            "style": "para"
-        }, {
-            "type": "image",
-            "image_url" : "http://www.someurl.com",
-            "style": "large_image"
-        }, {
-            "type": "webview",
-            "url": "http://www.someurl.com",
-            "style": "my_web_view"
-        }, {
-            "type": "show_more",
-            "text" : "More Info",
-            "style": "my_button"
-        }]
-    }
+    }]
 }
