@@ -12,15 +12,15 @@
             "style": "para"
         }, {
             "type": "image",
-            "image_url": "http://www.someurl.com",
+            "content": "http://www.someurl.com",
             "style": "large_image"
         }, {
             "type": "webview",
-            "url": "http://www.someurl.com",
+            "content": "http://www.someurl.com",
             "style": "my_web_view"
         }, {
             "type": "show_more",
-            "text": "More Info",
+            "content": "More Info",
             "style": "my_button"
         }]
     }

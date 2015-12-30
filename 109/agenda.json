@@ -12,7 +12,7 @@
         "style": "para"
     }, {
         "type": "image",
-        "image_url": "http://www.someurl.com",
+        "content": "http://www.someurl.com",
         "style": "small_image"
     }]
 }
