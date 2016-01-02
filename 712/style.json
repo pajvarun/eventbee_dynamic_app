@@ -2,14 +2,14 @@
     "para": {
         "font_size": 18,
         "font": "lato",
-        "color": "black",
+        "color": "#000000"
         "font_style": "normal",
         "position": "center"
     },
     "heading": {
         "font_size": 22,
         "font": "lato_bold",
-        "color": "gray",
+        "color": "#6E6E6E",
         "font_style": "bold",
         "position": "center",
         "all_caps": "yes"
@@ -25,7 +25,7 @@
     },
     "my_button": {
         "font": "lato-italic",
-        "text_color": "white",
-        "background_color": "blue"
+        "text_color": "#ffffff",
+        "background_color": "#0000FF"
     }
 }
