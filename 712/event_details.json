@@ -12,7 +12,7 @@
             "style": "large_image"
         }, {
             "type": "webview",
-            "content": "http://www.someurl.com",
+            "content": "https://www.google.co.in/",
             "style": "my_web_view"
         }, {
             "type": "show_more",
