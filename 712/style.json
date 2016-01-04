@@ -31,6 +31,7 @@
     "my_button": {
         "font": "lato-italic",
         "text_color": "#ffffff",
-        "background_color": "#11B2DA"
+        "background_color": "#11B2DA",
+        "position": "center"
     }
 }
