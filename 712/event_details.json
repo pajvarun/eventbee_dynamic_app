@@ -15,6 +15,11 @@
             "content": "https://www.google.co.in/",
             "style": "my_web_view"
         }, {
+            "type": "input_text",
+            "content": "Enter Name",
+            "style": "para"
+        },
+        {
             "type": "show_more",
             "content": "More Info",
             "style": "my_button"
