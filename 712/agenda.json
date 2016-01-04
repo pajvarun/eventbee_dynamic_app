@@ -21,6 +21,7 @@
     }, {
         "type":"button",
         "content":"submit",
-        "style":"my_button"
+        "style":"my_button",
+        "position":"center"
         }]
 }
