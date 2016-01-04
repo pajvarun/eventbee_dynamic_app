@@ -9,7 +9,7 @@
         }, {
             "type": "image",
             "content": "http://www.itsshowtime.in/wp-content/uploads/2013/06/event_marketing.jpg",
-            "style": "small_image"
+            "style": "large_image"
         }, {
             "type": "webview",
             "content": "http://www.someurl.com",
