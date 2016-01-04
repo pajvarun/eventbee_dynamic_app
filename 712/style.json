@@ -15,7 +15,7 @@
         "all_caps": "yes"
     },
     "my_web_view": {
-        "width": 1400,
+        "width": 700,
         "height": 1400,
         "position": "center"
     },
