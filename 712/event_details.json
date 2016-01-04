@@ -16,7 +16,7 @@
             "style": "my_web_view"
         }, {
             "type": "input_text",
-            "content": "Enter Name",
+            "content_hint": "Enter Name",
             "style": "para"
         },
         {
