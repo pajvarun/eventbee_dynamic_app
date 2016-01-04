@@ -18,10 +18,5 @@
         "type": "input_text",
         "content": "Enter Details",
         "style": "para"
-    }, {
-        "type":"button",
-        "content":"submit",
-        "style":"my_button",
-        "position":"center"
-        }]
+    }]
 }
