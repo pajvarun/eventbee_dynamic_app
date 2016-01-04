@@ -1,7 +1,7 @@
 {
     "type": "dynamic",
-    "module": "agenda",
-    "menu_title": "Event Agenda",
+    "module": "event_details",
+    "menu_title": "Event Details",
     "items": [{
             "type": "text",
             "content": "New year Event",
