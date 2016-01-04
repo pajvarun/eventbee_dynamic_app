@@ -14,5 +14,9 @@
         "type": "image",
         "content": "http://www.someurl.com",
         "style": "small_image"
-    }]
+    }, {
+        "type": "input_text",
+        "content_hint": "Enter Details",
+        "style": "para"
+        }]
 }
