@@ -5,8 +5,7 @@
     "items": [{
         "type": "text",
         "content": "New year Event",
-        "style": "heading",
-        "position":"center"
+        "style": "heading"
     }, {
         "type": "text",
         "content": "Some random text",
