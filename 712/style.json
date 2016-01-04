@@ -15,8 +15,8 @@
         "all_caps": "yes"
     },
     "large_image": {
-        "width": 500,
-        "height": 500,
+        "width": 1500,
+        "height": 1500,
         "position": "center"
     },
     "small_image": {
