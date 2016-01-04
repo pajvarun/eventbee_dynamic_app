@@ -15,8 +15,8 @@
         "all_caps": "yes"
     },
     "my_web_view": {
-        "width": 400,
-        "height": 400,
+        "width": 1400,
+        "height": 1400,
         "position": "center"
     },
     "large_image": {
