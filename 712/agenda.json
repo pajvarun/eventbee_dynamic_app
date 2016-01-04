@@ -12,11 +12,15 @@
         "style": "para"
     }, {
         "type": "image",
-        "content": "http://www.someurl.com",
+        "content": "https://yalantis.com/media/content/ckeditor/2014/06/Live-Events-01.jpg",
         "style": "small_image"
     }, {
         "type": "input_text",
-        "content_hint": "Enter Details",
+        "content": "Enter Details",
         "style": "para"
+    }, {
+        "type":"button",
+        "content":"submit",
+        "style":"my_button"
         }]
 }
