@@ -1,12 +1,8 @@
 {
     "type": "dynamic",
-    "name": "EVent Details",
-    "module": "event_details",
-    "event_details": {
-        "type": "dynamic",
-        "module": "event_details",
-        "menu_title": "Event Details",
-        "items": [{
+    "module": "agenda",
+    "menu_title": "Event Agenda",
+    "items": [{
             "type": "text",
             "content": "New year Event",
             "style": "para"
@@ -23,5 +19,4 @@
             "content": "More Info",
             "style": "my_button"
         }]
-    }
-}
+   }
