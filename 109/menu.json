@@ -5,6 +5,7 @@
     "attendee_email" : "ram@eventbee.com",
     "attendee_phone" : "9866260239",
     "event_title" : "Christmas event",
+    "event_image" : "http://www.so-events.at/SYSTEM/image_background/standard/background_02.jpg",
     "event_start_time": 1449878400,
     "event_end_time": 1450137600,
     "address1": "5353 Fannin Street",
