@@ -4,7 +4,7 @@
     "module": "attendee_info",
     "items": [{
         "type": "webview",
-        "content": "http://www.google.com",
+        "content": "http://www.google.co.in",
         "style": "my_web_view"
     }]
 }
