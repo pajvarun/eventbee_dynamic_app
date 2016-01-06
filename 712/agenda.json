@@ -4,7 +4,7 @@
     "menu_title": "Event Agenda",
     "items": [{
         "type": "text",
-        "content": "New year Event",
+        "content": "New year PAJ",
         "style": "heading"
     }, {
         "type": "text",
