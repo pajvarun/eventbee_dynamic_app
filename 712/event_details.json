@@ -11,9 +11,9 @@
             "content": "http://www.rgbphotographyonline.com/wp-content/uploads/2014/11/Revelry-Event-Design-Dina-Douglas-Sonia-Sharma.jpg",
             "style": "large_image"
         }, {
-            "type": "webview",
+            "type": "text",
             "content": "https://www.google.co.in/",
-            "style": "my_web_view"
+            "style": "para"
         }, {
             "type": "input_text",
             "content": "Enter Name",
