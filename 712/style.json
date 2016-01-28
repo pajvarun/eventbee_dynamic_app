@@ -19,6 +19,11 @@
         "height": 1400,
         "position": "center"
     },
+    "my_web_view_new":{
+        "width":800,
+        "height":2000,
+        "position":"center"
+    },
     "large_image": {
         "width": 1500,
         "height": 800,
