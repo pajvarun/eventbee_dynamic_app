@@ -32,7 +32,7 @@
     }, {
         "type": "dynamic",
         "name": "Attendee Info",
-        "module": "attendee_info"
+        "module": "attendees_info"
     }, {
         "type": "dynamic",
         "name": "Event Agenda",
