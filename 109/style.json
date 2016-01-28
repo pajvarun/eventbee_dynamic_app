@@ -26,7 +26,8 @@
     "my_button": {
         "font": "lato-italic",
         "text_color": "white",
-        "background_color": "blue"
+        "background_color": "blue",
+        "position":"center"
     },
     "my_web_view": {
         "width":1000,
