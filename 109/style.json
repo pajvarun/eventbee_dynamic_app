@@ -27,5 +27,11 @@
         "font": "lato-italic",
         "text_color": "white",
         "background_color": "blue"
+    },
+    "my_web_view": {
+        "width":500,
+        "height":700
     }
+}
+    
 }
