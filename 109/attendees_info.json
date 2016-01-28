@@ -4,7 +4,7 @@
     "module": "attendee_info",
     "items": [{
         "type": "webview",
-        "content": "http://www.someurl.com",
+        "content": "http://www.eventbee.com/",
         "style": "my_web_view"
     }]
 }
