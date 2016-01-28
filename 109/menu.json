@@ -27,8 +27,8 @@
         "module": "gallery"
     }, {
         "type": "fixed",
-        "name": "Ticket",
-        "module": "print_ticket"
+        "name": "Location",
+        "module": "when_and_where"
     }, {
         "type": "dynamic",
         "name": "Attendee Info",
