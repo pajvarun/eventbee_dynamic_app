@@ -1,8 +1,8 @@
 {
     "event_id": 109,
     "attendee_id": 2356,
-    "attendee_name" : "Ram",
-    "attendee_email" : "ram@eventbee.com",
+    "attendee_name" : "Radison",
+    "attendee_email" : "radiis@eventbee.com",
     "attendee_phone" : "9866260239",
     "event_title" : "Christmas event",
     "event_image" : "http://www.so-events.at/SYSTEM/image_background/standard/background_02.jpg",
@@ -10,7 +10,7 @@
     "event_end_time": 1450137600,
     "address1": "5353 Fannin Street",
     "address2": "",
-    "city": "Houston",
+    "city": "Boston",
     "lat": 29.726734161376953,
     "lng": -95.386962890625,
     "menu": [{
@@ -21,10 +21,6 @@
         "type": "fixed",
         "name": "Contact Manager",
         "module": "contact_manager"
-    }, {
-        "type": "fixed",
-        "name": "Event Gallery",
-        "module": "gallery"
     }, {
         "type": "fixed",
         "name": "Location",
