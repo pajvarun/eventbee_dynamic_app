@@ -1,0 +1,22 @@
+{
+    "type": "dynamic",
+    "module": "event_details",
+    "menu_title": "Event Details",
+        "items": [{
+            "type": "text",
+            "content": "New year Event",
+            "style": "para"
+        }, {
+            "type": "image",
+            "content": "http://www.so-events.at/SYSTEM/image_background/standard/background_02.jpg",
+            "style": "large_image"
+        }, {
+            "type": "webview",
+            "content": "http://www.eventbee.com/",
+            "style": "my_web_view"
+        }, {
+            "type": "show_more",
+            "content": "More Info",
+            "style": "my_button"
+        }]
+}
