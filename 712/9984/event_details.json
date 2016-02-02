@@ -1,0 +1,27 @@
+{
+    "type": "dynamic",
+    "module": "event_details",
+    "menu_title": "Event Details",
+    "items": [{
+            "type": "text",
+            "content": "New year Event",
+            "style": "para"
+        }, {
+            "type": "image",
+            "content": "http://www.rgbphotographyonline.com/wp-content/uploads/2014/11/Revelry-Event-Design-Dina-Douglas-Sonia-Sharma.jpg",
+            "style": "large_image"
+        }, {
+            "type": "text",
+            "content": "https://www.google.co.in/",
+            "style": "para"
+        }, {
+            "type": "input_text",
+            "content": "Enter Name",
+            "style": "para"
+        },
+        {
+            "type": "show_more",
+            "content": "More Info",
+            "style": "my_button"
+        }]
+   }

@@ -1,0 +1,22 @@
+{
+    "type": "dynamic",
+    "module": "agenda",
+    "menu_title": "Event Agenda",
+    "items": [{
+        "type": "text",
+        "content": "New year PAJ",
+        "style": "heading"
+    }, {
+        "type": "text",
+        "content": "Some random text",
+        "style": "para"
+    }, {
+        "type": "image",
+        "content": "https://yalantis.com/media/content/ckeditor/2014/06/Live-Events-01.jpg",
+        "style": "small_image"
+    }, {
+        "type": "input_text",
+        "content": "Enter Details",
+        "style": "para"
+    }]
+}

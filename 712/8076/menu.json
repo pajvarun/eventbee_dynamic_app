@@ -1,16 +1,16 @@
 {
-"event_id": 109,
-    "attendee_id": 1235,
-    "attendee_name" : "Ram",
-    "attendee_email" : "ram@eventbee.com",
-    "attendee_phone" : "9866260239",
-    "event_title" : "Christmas event",
-    "event_image" : "http://www.so-events.at/SYSTEM/image_background/standard/background_02.jpg",
-    "event_start_time": 1454662800,
-    "event_end_time": 1454675400,
+    "event_id": 712,
+    "attendee_id": 8076,
+    "attendee_name" : "Jennifer",
+    "attendee_email" : "jennifer@eventbee.com",
+    "attendee_phone" : "579129457",
+    "event_title" : "New year event",
+    "event_image" : "https://pbs.twimg.com/profile_images/624729643900235776/SNUkkQbS.png",
+    "event_start_time": 1455107400,
+    "event_end_time": 1455273000,
     "address1": "5353 Fannin Street",
     "address2": "",
-    "city": "Boston",
+    "city": "Houston",
     "lat": 29.726734161376953,
     "lng": -95.386962890625,
     "menu": [{
@@ -27,11 +27,15 @@
         "module": "gallery"
     }, {
         "type": "fixed",
-        "name": "Location",
-        "module": "when_and_where"
+        "name": "Ticket",
+        "module": "print_ticket"
     }, {
         "type": "dynamic",
         "name": "Attendee Info",
         "module": "attendees_info"
+    }, {
+        "type": "dynamic",
+        "name": "Event Agenda",
+        "module": "agenda"
     }]
 }

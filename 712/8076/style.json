@@ -1,0 +1,42 @@
+{
+    "para": {
+        "font_size": 18,
+        "font": "lato",
+        "color": "#000000",
+        "font_style": "normal",
+        "position": "left"
+    },
+    "heading": {
+        "font_size": 22,
+        "font": "lato_bold",
+        "color": "#6E6E6E",
+        "font_style": "bold",
+        "position": "center",
+        "all_caps": "yes"
+    },
+    "my_web_view": {
+        "width": 700,
+        "height": 1400,
+        "position": "center"
+    },
+    "my_web_view_new":{
+        "width":800,
+        "height":2000,
+        "position":"center"
+    },
+    "large_image": {
+        "width": 1500,
+        "height": 800,
+        "position": "center"
+    },
+    "small_image": {
+        "width": 200,
+        "height": 200
+    },
+    "my_button": {
+        "font": "lato-italic",
+        "text_color": "#ffffff",
+        "background_color": "#11B2DA",
+        "position": "center"
+    }
+}

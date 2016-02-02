@@ -1,0 +1,10 @@
+{
+    "type": "dynamic",
+    "name": "Attendee Info",
+    "module": "attendee_info",
+    "items": [{
+        "type": "webview",
+        "content": "http://www.google.co.in",
+        "style": "my_web_view_new"
+    }]
+}

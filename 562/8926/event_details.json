@@ -1,0 +1,22 @@
+{
+    "type": "dynamic",
+    "module": "event_details",
+    "menu_title": "Event Details",
+        "items": [{
+            "type": "text",
+            "content": "New year Event",
+            "style": "para"
+        }, {
+            "type": "image",
+            "content": "http://partyprofessionals.com.au/system/files/Wauchope%20RSL%20Birthday%20Bash%20c.jpg",
+            "style": "large_image"
+        }, {
+            "type": "webview",
+            "content": "http://www.eventbee.com/",
+            "style": "my_web_view"
+        }, {
+            "type": "show_more",
+            "content": "More Info",
+            "style": "my_button"
+        }]
+}
