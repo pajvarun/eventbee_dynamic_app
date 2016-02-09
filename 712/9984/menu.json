@@ -14,17 +14,17 @@
     "lat": 29.726734161376953,
     "lng": -95.386962890625,
     "menu": [{
-        "type": "dynamic",
-        "name": "Event Details",
-        "module": "event_details"
+        "type": "fixed",
+        "name": "Event Gallery",
+        "module": "gallery"
     }, {
         "type": "fixed",
         "name": "Contact Manager",
         "module": "contact_manager"
     }, {
-        "type": "fixed",
-        "name": "Event Gallery",
-        "module": "gallery"
+        "type": "dynamic",
+        "name": "Event Details",
+        "module": "event_details"
     }, {
         "type": "fixed",
         "name": "Ticket",
