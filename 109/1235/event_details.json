@@ -3,6 +3,7 @@
     "module": "event_details",
     "menu_title": "Event Details",
     "event_image": "http://static1.squarespace.com/static/54ecbb81e4b02904f4e167e8/t/55041267e4b023db67229dcf/1426330216156/events.jpg?format=1500w",
+    "event_name": "New year Eve 2016",
         "items": [{
             "type": "text",
             "content": "New year Event",
