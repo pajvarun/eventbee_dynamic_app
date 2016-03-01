@@ -4,7 +4,7 @@
     "module": "attendee_info",
     "items": [{
         "type": "webview",
-        "content": "http://www.eventbee.com/",
+        "content": "http://192.168.1.102/alpaca/index.html",
         "style": "my_web_view"
     }]
 }
