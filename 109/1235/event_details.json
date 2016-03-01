@@ -12,7 +12,7 @@
             "style": "large_image"
         }, {
             "type": "webview",
-            "content": "http://help.websiteos.com/websiteos/example_of_a_simple_html_page.htm",
+            "content": "http://www.catb.org/esr/faqs/hacker-howto.html",
             "style": "my_web_view"
         }, {
             "type": "show_more",
