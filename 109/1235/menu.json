@@ -13,23 +13,23 @@
     "city": "Boston",
     "lat": 29.726734161376953,
     "lng": -95.386962890625,
-    "menu": [{
+    "menu": ["event_details" : {
         "type": "dynamic",
         "name": "Event Details",
         "module": "event_details"
-    }, {
+    }, "contact_manager" : {
         "type": "fixed",
         "name": "Contact Manager",
         "module": "contact_manager"
-    }, {
+    }, "gallery" : {
         "type": "fixed",
         "name": "Event Gallery",
         "module": "gallery"
-    }, {
+    }, "when_and_where" : {
         "type": "fixed",
         "name": "Location",
         "module": "when_and_where"
-    }, {
+    }, "attendees_info" : {
         "type": "dynamic",
         "name": "Attendee Info",
         "module": "attendees_info"
