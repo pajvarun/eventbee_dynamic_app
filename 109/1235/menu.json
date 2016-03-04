@@ -13,7 +13,7 @@
     "city": "Boston",
     "lat": 29.726734161376953,
     "lng": -95.386962890625,
-    "menu": ["event_details" : {
+    "menu": {"event_details" : {
         "type": "dynamic",
         "name": "Event Details",
         "module": "event_details"
@@ -33,5 +33,5 @@
         "type": "dynamic",
         "name": "Attendee Info",
         "module": "attendees_info"
-    }]
+    }}
 }
